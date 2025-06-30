@@ -26,7 +26,7 @@ This repository demonstrates a complete CI/CD pipeline using Jenkins. It showcas
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/davraops/ci-cd-with-jenkins.git
+git clone https://github.com/wonderops/ci-cd-with-jenkins.git
 cd ci-cd-with-jenkins
 
 # Configure Jenkins
